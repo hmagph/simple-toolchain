@@ -62,7 +62,7 @@ services:
   zork:
     service_id: zork_id    
   git:
-    service_id: hostegit     
+    service_id: hostedgit     
 form:
   pipeline:
     parameters:
