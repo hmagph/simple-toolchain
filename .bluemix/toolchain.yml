@@ -59,6 +59,8 @@ services:
         execute: true
   webide:
     service_id: orion
+  zork:
+    service_id: zork_id    
 form:
   pipeline:
     parameters:
