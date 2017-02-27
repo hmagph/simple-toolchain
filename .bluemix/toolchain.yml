@@ -61,6 +61,8 @@ services:
     service_id: orion
   zork:
     service_id: zork_id    
+  git:
+    service_id: hostegit     
 form:
   pipeline:
     parameters:
