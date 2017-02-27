@@ -61,6 +61,8 @@ services:
     service_id: orion
   zork:
     service_id: zork_id    
+  zork2:
+    service_id: zork2_id      
   git:
     service_id: hostedgit     
 form:
